@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "dependencies": {
+    "express": "^5.2.1",
+    "ws": "^8.20.0"
+  },
+  "devDependencies": {
+    "typescript": "^6.0.2",
+    "@types/node": "^25.6.0",
+    "@types/ws": "^8.18.1"
+  }
+}
